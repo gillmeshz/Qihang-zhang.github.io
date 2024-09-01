@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Zhang-Qihang"
+title: "Qihang-zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello everyone, I'm Qihang-zhang. I received my undergraduate degree from China University of Geosciences (Wuhan) and am currently studying for a master’s degree at Tsinghua University.When I was an undergraduate, I studied computational mechanics, but during my master's degree, I will study the modification of coral aggregates.  My research interest includes computer vision, machine learning, and Java development.
+Hello everyone🎉, I'm Qihang-zhang. I received my undergraduate degree from China University of Geosciences (Wuhan) and am currently studying for a master’s degree at Tsinghua University.
+When I was an undergraduate, I studied computational mechanics using the discrete element method. My research interests include computer vision, machine learning, and Java development. I will keep studying hard！！！💪💪💪
 
 A data-driven personal website
 ======
