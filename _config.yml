@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Your Name / Site Titl"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "First-year graduate student at Tsinghua University"
+url                      : https://gillmeshz.github.io/Qihang-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "CUG➡THU"
   location         : "China Beijing"
   employer         : "Tsinghua University"
-  URI              : "https://gillmeshz.github.io/Qihang-zhang.github.io/
+  URI              : "https://gillmeshz.github.io/Qihang-zhang.github.io"
   email            : "zhang-qh24@mails.tsinghua.edu.cn" 
 
   # Academic websites
